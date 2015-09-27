@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\CsvProcessor\CsvProcessor\obj\x86\Release\CsvProcessor.csproj.ResolveComReference.cache
+d:\documents\visual studio 2010\Projects\CsvProcessor\CsvProcessor\bin\Release\CsvProcessor.exe
+d:\documents\visual studio 2010\Projects\CsvProcessor\CsvProcessor\bin\Release\CsvProcessor.pdb
+d:\documents\visual studio 2010\Projects\CsvProcessor\CsvProcessor\obj\x86\Release\CsvProcessor.exe
+d:\documents\visual studio 2010\Projects\CsvProcessor\CsvProcessor\obj\x86\Release\CsvProcessor.pdb
